@@ -22,7 +22,7 @@ function whileLoop(n){
 
 function doWhileLoop(num){
   do {
-    
+    console.log()
   }while(incrementVariable() < num)
 }
 
